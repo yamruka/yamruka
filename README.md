@@ -1,16 +1,17 @@
-## Hi there 👋
+# hi, i'm yamruka
 
-<!--
-**yamruka/yamruka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+welcome to my github profile.
 
-Here are some ideas to get you started:
+## about me
+- learning python and loving the journey
+- linux fan — constantly destroying my environment
+- i like videogames.
+- accidentally creating malware since 2024.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## contact
+- discord: @yamruka (preferred)
+- instagram: [@yamruka](https://instagram.com/yamruka)
+- stack overflow: [@yamruka](https://stackoverflow.com/users/26533927/yamruka)
+
+
+> "quote"
