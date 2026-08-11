@@ -1,12 +1,7 @@
-# hi, i'm yamruka
-
-welcome to my github profile.
+# hi
 
 ## about me
-- learning python and loving the journey
-- linux fan — constantly destroying my environment
-- i like videogames.
-- accidentally creating malware since 2024.
+- i'm learning c++, java
 
 ## contact
 - discord: @yamruka (preferred)
