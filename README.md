@@ -1,7 +1,7 @@
 # hi
 
 ## about me
-- i'm learning c++, java
+- i'm learning c, c++, java in no particular order
 
 ## contact
 - discord: @yamruka (preferred)
